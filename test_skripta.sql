@@ -1,1 +1,3 @@
-select * from dobavljaci.mesecni_troskovi2015
+select * from dobavljaci.artikli_cene
+
+update dobavljaci.artikli_cene set cena=123.456 where artikal='Coca cola'

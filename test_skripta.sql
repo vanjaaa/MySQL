@@ -1,0 +1,1 @@
+select * from dobavljaci.mesecni_troskovi2015
